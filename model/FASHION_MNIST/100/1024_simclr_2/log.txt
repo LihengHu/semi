@@ -1,0 +1,15 @@
+Epoch 0.  Time 00:03:20
+Train Loss1: 0.000000, Train Loss2: 0.122365,Train Loss3: 0.000000,Train Loss4: 1.738665,Train Loss5: 0.779737,
+Acc : 0.2265, NMI :0.14048484736484745
+Epoch 0.  Time 00:01:06
+Train Loss1: 0.000000, Train Loss2: 0.152572,Train Loss3: 0.000000,Train Loss4: 1.903287,Train Loss5: 0.598186,
+Acc : 0.294125, NMI :0.35271744860953325
+Epoch 0.  Time 00:01:17
+Train Loss1: 0.000000, Train Loss2: 0.150008,Train Loss3: 0.000000,Train Loss4: 2.131708,Train Loss5: 0.570295,
+Acc : 0.327125, NMI :0.4006388809645655
+Epoch 0.  Time 00:07:25
+Train Loss1: 0.000000, Train Loss2: 0.096882,Train Loss3: 0.000000,Train Loss4: 0.674188,Train Loss5: 0.000000,
+Acc : 0.371125, NMI :0.3349645513992943
+Epoch 0.  Time 00:02:25
+Train Loss1: 4.317262, Train Loss2: 0.000000,Train Loss3: 0.000000,Train Loss4: 0.000000,Train Loss5: 0.000000,
+Acc : 0.6285, NMI :0.4942932303769062
